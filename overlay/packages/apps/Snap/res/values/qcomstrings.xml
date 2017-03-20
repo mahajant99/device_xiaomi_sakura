@@ -21,4 +21,6 @@
     <!-- Default video cds mode setting-->
     <string name="pref_camera_video_cds_default" translatable="false">off</string>
 
+    <!-- Zero shutter lag-->
+    <string name="pref_camera_zsl_default" translatable="false">off</string>
 </resources>
