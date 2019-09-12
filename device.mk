@@ -15,7 +15,7 @@
 #
 
 $(call inherit-product, vendor/xiaomi/sakura/sakura-vendor.mk)
-$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_0_mr1.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
