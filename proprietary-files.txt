@@ -468,6 +468,10 @@ vendor/lib/libmmcamera_sakura_s5k5e8_ofilm_eeprom.so
 vendor/lib/libmmcamera_sakura_s5k5e8_sunny.so
 vendor/lib/libmmcamera_sakura_s5k5e8_sunny_eeprom.so
 
+# Camera Patched Blobs - (Those Are Patched To Make Camera Work On Ten)
+vendor/lib/hw/camera.msm8953.so
+vendor/lib/camera.msm8953.shim.so
+
 # Camera HIDL - from sakura (HACK NEEDED)
 vendor/bin/hw/android.hardware.camera.provider@2.4-service
 vendor/lib/camera.device@1.0-impl.so
@@ -486,7 +490,6 @@ vendor/lib/libois_lc898122.so
 vendor/bin/mm-qcamera-daemon
 
 # Camera QCOM Libraries - from sakura
-vendor/lib/hw/camera.msm8953.so
 lib/libtrueportrait.so:vendor/lib/libtrueportrait.so
 vendor/lib/libarcsoft_beautyshot.so
 vendor/lib/libarcsoft_dualcam_refocus.so
