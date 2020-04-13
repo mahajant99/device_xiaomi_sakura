@@ -1976,7 +1976,7 @@ vendor/lib/libchromatix_vince_ov5675_qtech_zsl_preview_3a.so
 vendor/lib/libchromatix_vince_ov5675_qtech_zsl_video_3a.so
 
 # Camera Configs - from Daisy QKQ1.191002.002 V11.0.2.0.QDLMIXM
-vendor/etc/camera/camera_config.xml
+vendor/etc/camera/camera_config.xml|c2c32de656a230c13822f0b2e54bbd7782c58ce5
 vendor/etc/camera/csidtg_camera.xml
 vendor/etc/camera/csidtg_chromatix.xml
 vendor/etc/camera/imx214_chromatix.xml
@@ -2253,3 +2253,30 @@ vendor/lib64/libqcrilFramework.so|d0d78f822220ee64df0c277bf3470d13e9561c65
 vendor/lib64/libril-qc-hal-qmi.so|c729644ed0b8428d82588f2000ff3b42af165f3b
 vendor/lib64/qcrild_librilutils.so|22ae52ea7750c9011e3880852d800d94d54b030e
 
+# Fix green photo back camera in the whatsapp - from Daisy QKQ1.191002.002-V11.0.2.0.QDLMIXM (Camera Crashes if too many pics are taken)
+vendor/etc/camera/ov12a10_chromatix.xml
+vendor/lib/libchromatix_ov12a10_4k_preview_dw9763.so
+vendor/lib/libchromatix_ov12a10_4k_video_dw9763.so
+vendor/lib/libchromatix_ov12a10_common.so
+vendor/lib/libchromatix_ov12a10_cpp_hfr_60.so
+vendor/lib/libchromatix_ov12a10_cpp_hfr_90.so
+vendor/lib/libchromatix_ov12a10_cpp_hfr_120.so
+vendor/lib/libchromatix_ov12a10_cpp_liveshot.so
+vendor/lib/libchromatix_ov12a10_cpp_preview.so
+vendor/lib/libchromatix_ov12a10_cpp_snapshot.so
+vendor/lib/libchromatix_ov12a10_cpp_video.so
+vendor/lib/libchromatix_ov12a10_cpp_video_4k.so
+vendor/lib/libchromatix_ov12a10_default_preview_dw9763.so
+vendor/lib/libchromatix_ov12a10_default_video_dw9763.so
+vendor/lib/libchromatix_ov12a10_hfr_60.so
+vendor/lib/libchromatix_ov12a10_hfr_60_dw9763.so
+vendor/lib/libchromatix_ov12a10_hfr_90.so
+vendor/lib/libchromatix_ov12a10_hfr_90_dw9763.so
+vendor/lib/libchromatix_ov12a10_hfr_120.so
+vendor/lib/libchromatix_ov12a10_hfr_120_dw9763.so
+vendor/lib/libchromatix_ov12a10_postproc.so
+vendor/lib/libchromatix_ov12a10_preview.so
+vendor/lib/libchromatix_ov12a10_snapshot.so
+vendor/lib/libchromatix_ov12a10_video_4k.so
+vendor/lib/libchromatix_ov12a10_zsl_preview_dw9763.so
+vendor/lib/libchromatix_ov12a10_zsl_video_dw9763.so
