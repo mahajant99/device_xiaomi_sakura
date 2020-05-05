@@ -1,0 +1,3 @@
+# fingerprint
+allow system_server goodix_fp_hwservice:hwservice_manager find;
+
