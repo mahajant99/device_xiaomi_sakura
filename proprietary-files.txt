@@ -1,5 +1,4 @@
-# Audio ACDB - from Tissot PKQ1.180917.001/V10.0.2.0.PDHMIFK
-vendor/etc/acdbdata/QRD/QRD_adsp_avs_config.acdb
+# Audio ACDB - from Daisy QKQ1.191002.002-V11.0.5.0.QDLMIXM
 vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_General_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb
@@ -8,6 +7,8 @@ vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
+vendor/etc/acdbdata/adsp_avs_config.acdb
+
 
 # Camera - from Daisy QKQ1.191002.002-V11.0.5.0.QDLMIXM
 lib64/libseemore.so
