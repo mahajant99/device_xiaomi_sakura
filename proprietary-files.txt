@@ -1830,6 +1830,7 @@ vendor/lib64/libmmcamera_tintless_bg_pca_algo.so
 vendor/bin/hw/android.hardware.camera.provider@2.4-service
 vendor/etc/init/android.hardware.camera.provider@2.4-service.rc
 vendor/lib/hw/android.hardware.camera.provider@2.4-impl.so
+vendor/lib/android.hardware.camera.provider@2.4-external.so
 vendor/lib/android.hardware.camera.provider@2.4-legacy.so
 vendor/lib/camera.device@1.0-impl.so
 vendor/lib/camera.device@3.2-impl.so
@@ -1838,6 +1839,7 @@ vendor/lib/camera.device@3.4-external-impl.so
 vendor/lib/camera.device@3.4-impl.so
 vendor/lib/camera.device@3.5-external-impl.so
 vendor/lib/camera.device@3.5-impl.so
+vendor/lib64/android.hardware.camera.provider@2.4-external.so
 vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so
 vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
 vendor/lib64/camera.device@1.0-impl.so
@@ -1897,4 +1899,3 @@ vendor/etc/init/qcrild.rc|f9c32f5e7a8e7f4a0df1dcce174de169b8d7c060
 vendor/lib64/libqcrilFramework.so|7d51b9b1d28c3b09aa8b76251c5831b8275dcc6d
 vendor/lib64/libril-qc-hal-qmi.so|4b93df3dd320dc6100e3199cd26f21704ca9c2bb
 vendor/lib64/qcrild_librilutils.so|22ae52ea7750c9011e3880852d800d94d54b030e
-
