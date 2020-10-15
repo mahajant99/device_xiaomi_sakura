@@ -50,5 +50,8 @@ VENDOR_SECURITY_PATCH := 2020-02-05
 # Sepolicy
 BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
+
 # Inherit from the proprietary version
 -include vendor/xiaomi/sakura/BoardConfigVendor.mk
