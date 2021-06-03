@@ -1895,9 +1895,9 @@ vendor/firmware/goodixfp.b05|cb9c666ce9653510954af7380936f5ccd3e7cc37
 vendor/firmware/goodixfp.b06|826951cf2ced420f537a17f97eec815f89f373b0
 vendor/firmware/goodixfp.mdt|4eb8e95418a3512469cc91bb8d01cecc401d42d0
 
-# QC RIL - from LA.UM.8.6.2.r1-08400-89xx.0
-vendor/bin/hw/qcrild|e6388657a78502c6211ff7dd54d1edbc7e97f148
+# QC RIL - from nokia
+vendor/bin/hw/qcrild|3eea6728924507e6200a2a58c827bf1235eba28f
 vendor/etc/init/qcrild.rc|f9c32f5e7a8e7f4a0df1dcce174de169b8d7c060
-vendor/lib64/libqcrilFramework.so|7d51b9b1d28c3b09aa8b76251c5831b8275dcc6d
-vendor/lib64/libril-qc-hal-qmi.so|4b93df3dd320dc6100e3199cd26f21704ca9c2bb
-vendor/lib64/qcrild_librilutils.so|22ae52ea7750c9011e3880852d800d94d54b030e
+vendor/lib64/libqcrilFramework.so|da3c0216ddad60f48b1fc90b31a6d6d1114e95be
+vendor/lib64/libril-qc-hal-qmi.so|0c489fdafb9ae47de463d158d8327b6467db7900
+vendor/lib64/qcrild_librilutils.so|69354ed8d4f5b18dc890e292bcbfec01fa37edf7
