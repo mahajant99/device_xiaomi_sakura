@@ -35,13 +35,12 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    android.frameworks.displayservice@1.0 \
     android.hardware.camera.provider@2.4-impl \
     android.hardware.camera.provider@2.4-service \
-    android.hardware.camera.provider@2.5 \
-    android.hardware.camera.device@3.4 \
-    vendor.qti.hardware.camera.device@1.0.vendor \
+    camera.msm8953 \
     libdng_sdk.vendor \
+    libmm-qcamera \
+    libstdc++.vendor \
     Snap
 
 # ConsumerIr
