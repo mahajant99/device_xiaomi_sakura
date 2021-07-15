@@ -19,6 +19,12 @@ vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|df515758fcd2d5eb6edfad627d2c02642d3
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|ba3d7670485f5e3f5d0f4b5753873875408e0746
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|b780c7d8fdd350a3f7aeffaa0bcf311f5fdda0f6
 
+# Audio Hardware
+vendor/lib/hw/audio.primary.default.so
+vendor/lib/hw/audio.primary.msm8953.so
+vendor/lib64/hw/audio.primary.default.so
+vendor/lib64/hw/audio.primary.msm8953.so
+
 # Camera
 lib64/libseemore.so|eb3d633332755c5153ab0935c784dece0ea8c89e
 vendor/lib/hw/camera.msm8953.so|cc7c58acbac0e6012ec974b09c1268c5d90c278d
